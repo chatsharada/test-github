@@ -1,2 +1,2 @@
 # test-github
-testing git hub first time
+This is description: testing git hub first time
